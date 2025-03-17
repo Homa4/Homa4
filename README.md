@@ -12,9 +12,12 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://media1.tenor.com/m/2p2UKdoQhFQAAAAC/tom-%26-jerry-pegando.gif"  />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Homa4&show_icons=true&theme=transparent)
+<div align="right">
+  <img height="300" src="https://media1.tenor.com/m/2p2UKdoQhFQAAAAC/tom-%26-jerry-pegando.gif"  />
 </div>
+
+
 
 ###
 
