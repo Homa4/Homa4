@@ -12,16 +12,14 @@
 
 ###
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Homa4&show_icons=true&theme=transparent)
-<div align="right">
-  <img height="300" src="https://media1.tenor.com/m/2p2UKdoQhFQAAAAC/tom-%26-jerry-pegando.gif"  />
+<div align="center" >
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Homa4&show_icons=true&theme=gruvbox" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Homa4&hide_progress=true&theme=gruvbox" />
 </div>
-
-
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -35,6 +33,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  
+  <img height="200" src="https://media1.tenor.com/m/2p2UKdoQhFQAAAAC/tom-%26-jerry-pegando.gif" />
 </div>
-
-###
