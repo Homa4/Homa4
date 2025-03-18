@@ -12,9 +12,12 @@
 
 ###
 
-<div align="center" >
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Homa4&show_icons=true&theme=gruvbox" />
+<div align="left" >
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Homa4&hide_progress=true&theme=gruvbox" />
+
+###
+  
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Homa4&show_icons=true&theme=gruvbox" />
 </div>
 
 ###
