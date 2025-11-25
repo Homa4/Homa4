@@ -8,17 +8,6 @@
 
 <p align="left">👋 Hey there! Welcome to my GitHub!<br>I’m passionate about coding, exploring new technologies, and building cool projects.<br>Feel free to check out my repositories and reach out if you want to collaborate! 🚀</p>
 
-###
-
-<div align="left" >
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Homa4&hide_progress=true&theme=gruvbox" />
-
-###
-  
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Homa4&show_icons=true&theme=gruvbox" />
-</div>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
